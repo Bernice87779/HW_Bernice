@@ -3,3 +3,6 @@ random_numbers
 
 mean_value <- mean(random_numbers)
 mean_value
+
+sd_value <- sd(random_numbers)
+sd_value
